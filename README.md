@@ -42,7 +42,7 @@ Installing
 
         $ pip install -r src/requirements.txt
 
-2. Modify ankisyncd.conf according to your needs
+2. Modify `/anki-sync-server/src/ankisyncd.conf` according to your needs, all subsequent commands refer to `/anki-sync-server/src/`.
 
 3. Create user:
 
